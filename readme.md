@@ -31,7 +31,7 @@ For more information about how Corcel works please visit [the repository](http:/
 To install the ACF plugin for Corcel is easy:
 
 ```
-composer require corcel/acf
+composer require tungpham42/corcel-acf
 ```
 
 Corcel is required for this plugin, but don't worry, if it's missing it will be installed as well.
